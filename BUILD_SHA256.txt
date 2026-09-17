@@ -1,17 +1,23 @@
 983a1bbdfe51906fd6f6c27da8ba0fca47a2e8ee6f8cabe3382783fe0dd0e8a3  ./evidence/01_humanity/HUMANITY_SPECIMEN.txt
 f38fce3677b42bf7e952015908cb4aef5f57e43daa5b2713267938d13e4b1c28  ./evidence/02_adam/ADAM_SPECIMEN.txt
-503d82baee65ac01d928d54e6b8d06230403c6c22eec2b3828a54756db704b11  ./media/01_dinosaur_world_24695.png
-f2880b41ab8647c2a4858eda75a750c050c07216d7005be22580c9f3154e54e3  ./media/02_dinosaur_world_37169.png
 b108a2a78bf536db06ab1fb5e824382c33ce0fe7c505e5b2bfa57a414aacc2c2  ./media/04_dashboard_world_37169.png
-3cb1d50a16e9614333309cb7432fdd5b8bf1b56f0dfef3c9207518c0d12f74fe  ./media/05_dinosaur_world_37169_bio_on.png
-d2c99052da7973e036b2d09919b44dbf7465b0cc3e6b1b29a82f3e8646bda253  ./media/2026-09-10_test-DS-GROK-GIN_01.webm
-9b412a812cfb69f29e0d7e95ed5ce3cbd118ce447b9863c42ada329a252adae5  ./media/2026-09-10_test-DS-GROK-GIN_02.webm
-bbced639dce48f352e7ae54f832776e27382eeda39ef71d03c75a2a488c507ae  ./media/2026-09-10_test-DS-GROK-GIN_03.webm
-8aa2483bda6b40d7c99c9579c9336c4c2b75890a174e454a1a9a62d22c269908  ./media/2026-09-10_test-DS-GROK-GIN_04.webm
-e1849796431202467eaf9ff67571538f2d95de506420324a90c512005cd6096d  ./media/question-answer-DS.webm
-0c3529c015161354132948dbd0c6ab9cdfe6726968b015cccf56a7b26e4ac045  ./media/question-answer-GIN.webm
-066a31276e9f41250fe3d73ae93462e01f849d98da68a07f7fc48b0293b7ccb1  ./media/question-answer-google-knows-he-in-battle.webm
-adace2b8562294d04bdc9a7ee7f756e6ac3182820f9679355184db55378ac91c  ./media/question-answer.webm
-a7dad6677cb809c4b0190a5c90af497886510fbd162dfd86b2e234a37b121e58  ./media/Screenshot From 2026-09-08 12-15-26.png
-b3dcba3e0b6cf9333cb8cc124c8cff946fa67440541203a25ef82a2824b96143  ./MEDIA_SHA256.txt
+503d82baee65ac01d928d54e6b8d06230403c6c22eec2b3828a54756db704b11  ./media/GIN grows & modifies its own answers/01_dinosaur_world_24695.png
+f2880b41ab8647c2a4858eda75a750c050c07216d7005be22580c9f3154e54e3  ./media/GIN grows & modifies its own answers/02_dinosaur_world_37169.png
+3cb1d50a16e9614333309cb7432fdd5b8bf1b56f0dfef3c9207518c0d12f74fe  ./media/GIN grows & modifies its own answers/05_dinosaur_world_37169_bio_on.png
+a7dad6677cb809c4b0190a5c90af497886510fbd162dfd86b2e234a37b121e58  ./media/GIN grows & modifies its own answers/Screenshot From 2026-09-08 12-15-26.png
+1dd06f90fd13274397f2c9986ba5ca03610dad00a4ffb0b4bbdb70ae76f53dbd  ./media/GIN grows & modifies its own answers/Screenshot From 2026-09-17 16-07-13.png
+e1849796431202467eaf9ff67571538f2d95de506420324a90c512005cd6096d  ./media/logic_joke/question-answer-DS.webm
+0c3529c015161354132948dbd0c6ab9cdfe6726968b015cccf56a7b26e4ac045  ./media/logic_joke/question-answer-GIN.webm
+066a31276e9f41250fe3d73ae93462e01f849d98da68a07f7fc48b0293b7ccb1  ./media/logic_joke/question-answer-google-knows-he-in-battle.webm
+adace2b8562294d04bdc9a7ee7f756e6ac3182820f9679355184db55378ac91c  ./media/logic_joke/question-answer.webm
+d2c99052da7973e036b2d09919b44dbf7465b0cc3e6b1b29a82f3e8646bda253  ./media/logic_test_V1/2026-09-10_test-DS-GROK-GIN_01.webm
+9b412a812cfb69f29e0d7e95ed5ce3cbd118ce447b9863c42ada329a252adae5  ./media/logic_test_V1/2026-09-10_test-DS-GROK-GIN_02.webm
+bbced639dce48f352e7ae54f832776e27382eeda39ef71d03c75a2a488c507ae  ./media/logic_test_V1/2026-09-10_test-DS-GROK-GIN_03.webm
+8aa2483bda6b40d7c99c9579c9336c4c2b75890a174e454a1a9a62d22c269908  ./media/logic_test_V1/2026-09-10_test-DS-GROK-GIN_04.webm
+49c9954439793787448b95d5a67b12d39be3df681b91f534c2ce5f90bf1b335b  ./media/logic_test_V2/Screencast From 2026-09-17 15-50-52.webm
+8af8ad5801e877b7b5e62d74ced700a6065c985dcd6df23cd1d2fd7f2b969c2d  ./media/logic_test_V2/Screencast From 2026-09-17 15-51-24.webm
+9010e94a92b1249fcf133c7ab8f5349a4a1252313d04477cd5ec6b96af93e2ac  ./media/logic_test_V2/Screencast From 2026-09-17 15-52-38.webm
+83e2ad50b8220172c66865f993f06968be0045b2ef34142fe959f4e836d1dc68  ./media/logic_test_V2/Screencast From 2026-09-17 15-54-28.webm
+e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  ./media/Screenshot From 2026-09-17 16-20-24.png
+eae21455b5a3e1f575c89be0ce43f2181fe772eaff20e817369d92bf2e12317a  ./MEDIA_SHA256.txt
 cce5890ebfadf11e93c34cd67414c5fd610eaac06d313b336b80243759f8f9aa  ./README.md
