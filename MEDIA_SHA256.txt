@@ -9,6 +9,9 @@ e0d9d280950ffb51b1b09e9fa793b4a0fb5481e0640a12058caeea46db42adff  media/GIN_made
 e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  media/Screenshot From 2026-09-17 16-20-24.png
 158f878253b20fe5e070be494960a11c4bcb588dd8b45093c2addafb699e3100  media/cloud_fail/Screenshot From 2026-10-07 08-39-48.png
 a8eb8d2ccc479db77ba52e757d0a4682eeb4d941796fc8307d1dc31b03457ea6  media/cloud_fail/Screenshot From 2026-10-17 00-57-09.png
+294ff74b724c98b2136dfc2785bdcc594ab52c6ffaf6f933a00c6674077992df  media/know&dont_know/Screencast From 2026-10-17 02-04-40.webm
+62b99c88777350fa909a7ce5544dfd37a497941328e37a58af33576481df548b  media/know&dont_know/Screenshot From 2026-10-17 01-58-38.png
+7344fc913571785b35c2ccbc95154422c8e80c8d335e601fae34dbb7fa3d3424  media/know&dont_know/Screenshot From 2026-10-17 02-04-18.png
 e1849796431202467eaf9ff67571538f2d95de506420324a90c512005cd6096d  media/logic_joke/question-answer-DS.webm
 0c3529c015161354132948dbd0c6ab9cdfe6726968b015cccf56a7b26e4ac045  media/logic_joke/question-answer-GIN.webm
 066a31276e9f41250fe3d73ae93462e01f849d98da68a07f7fc48b0293b7ccb1  media/logic_joke/question-answer-google-knows-he-in-battle.webm
