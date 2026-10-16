@@ -6,6 +6,11 @@ f2880b41ab8647c2a4858eda75a750c050c07216d7005be22580c9f3154e54e3  ./media/GIN gr
 3cb1d50a16e9614333309cb7432fdd5b8bf1b56f0dfef3c9207518c0d12f74fe  ./media/GIN grows & modifies its own answers/05_dinosaur_world_37169_bio_on.png
 a7dad6677cb809c4b0190a5c90af497886510fbd162dfd86b2e234a37b121e58  ./media/GIN grows & modifies its own answers/Screenshot From 2026-09-08 12-15-26.png
 1dd06f90fd13274397f2c9986ba5ca03610dad00a4ffb0b4bbdb70ae76f53dbd  ./media/GIN grows & modifies its own answers/Screenshot From 2026-09-17 16-07-13.png
+c5bff723b5181eda86132b67b8b234b90fb2c3464fc5c6067dd0a12e1d6824c2  ./media/GIN_made_site/Screenshot From 2026-10-17 00-52-51.png
+e0d9d280950ffb51b1b09e9fa793b4a0fb5481e0640a12058caeea46db42adff  ./media/GIN_made_site/hands-9d425331416f66373c6f51db.zip
+e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  ./media/Screenshot From 2026-09-17 16-20-24.png
+158f878253b20fe5e070be494960a11c4bcb588dd8b45093c2addafb699e3100  ./media/cloud_fail/Screenshot From 2026-10-07 08-39-48.png
+a8eb8d2ccc479db77ba52e757d0a4682eeb4d941796fc8307d1dc31b03457ea6  ./media/cloud_fail/Screenshot From 2026-10-17 00-57-09.png
 e1849796431202467eaf9ff67571538f2d95de506420324a90c512005cd6096d  ./media/logic_joke/question-answer-DS.webm
 0c3529c015161354132948dbd0c6ab9cdfe6726968b015cccf56a7b26e4ac045  ./media/logic_joke/question-answer-GIN.webm
 066a31276e9f41250fe3d73ae93462e01f849d98da68a07f7fc48b0293b7ccb1  ./media/logic_joke/question-answer-google-knows-he-in-battle.webm
@@ -18,6 +23,5 @@ bbced639dce48f352e7ae54f832776e27382eeda39ef71d03c75a2a488c507ae  ./media/logic_
 8af8ad5801e877b7b5e62d74ced700a6065c985dcd6df23cd1d2fd7f2b969c2d  ./media/logic_test_V2/Screencast From 2026-09-17 15-51-24.webm
 9010e94a92b1249fcf133c7ab8f5349a4a1252313d04477cd5ec6b96af93e2ac  ./media/logic_test_V2/Screencast From 2026-09-17 15-52-38.webm
 83e2ad50b8220172c66865f993f06968be0045b2ef34142fe959f4e836d1dc68  ./media/logic_test_V2/Screencast From 2026-09-17 15-54-28.webm
-e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  ./media/Screenshot From 2026-09-17 16-20-24.png
-eae21455b5a3e1f575c89be0ce43f2181fe772eaff20e817369d92bf2e12317a  ./MEDIA_SHA256.txt
+be44387839dac78e7bedc9e43cd5e86711ded72fdd5d8492f2f9e0ab404bf6ac  ./MEDIA_SHA256.txt
 cce5890ebfadf11e93c34cd67414c5fd610eaac06d313b336b80243759f8f9aa  ./README.md
