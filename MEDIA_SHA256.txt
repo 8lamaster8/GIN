@@ -7,8 +7,8 @@ a7dad6677cb809c4b0190a5c90af497886510fbd162dfd86b2e234a37b121e58  media/GIN grow
 c5bff723b5181eda86132b67b8b234b90fb2c3464fc5c6067dd0a12e1d6824c2  media/GIN_made_site/Screenshot From 2026-10-17 00-52-51.png
 e0d9d280950ffb51b1b09e9fa793b4a0fb5481e0640a12058caeea46db42adff  media/GIN_made_site/hands-9d425331416f66373c6f51db.zip
 e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  media/Screenshot From 2026-09-17 16-20-24.png
-158f878253b20fe5e070be494960a11c4bcb588dd8b45093c2addafb699e3100  media/cloud_fail/Screenshot From 2026-10-07 08-39-48.png
-a8eb8d2ccc479db77ba52e757d0a4682eeb4d941796fc8307d1dc31b03457ea6  media/cloud_fail/Screenshot From 2026-10-17 00-57-09.png
+158f878253b20fe5e070be494960a11c4bcb588dd8b45093c2addafb699e3100  media/claud_fail/Screenshot From 2026-10-07 08-39-48.png
+a8eb8d2ccc479db77ba52e757d0a4682eeb4d941796fc8307d1dc31b03457ea6  media/claud_fail/Screenshot From 2026-10-17 00-57-09.png
 294ff74b724c98b2136dfc2785bdcc594ab52c6ffaf6f933a00c6674077992df  media/know&dont_know/Screencast From 2026-10-17 02-04-40.webm
 62b99c88777350fa909a7ce5544dfd37a497941328e37a58af33576481df548b  media/know&dont_know/Screenshot From 2026-10-17 01-58-38.png
 7344fc913571785b35c2ccbc95154422c8e80c8d335e601fae34dbb7fa3d3424  media/know&dont_know/Screenshot From 2026-10-17 02-04-18.png
