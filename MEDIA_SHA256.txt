@@ -9,6 +9,17 @@ e0d9d280950ffb51b1b09e9fa793b4a0fb5481e0640a12058caeea46db42adff  media/GIN_made
 e5430a016d6c240c0f68b456bb8f9d64492e371ffce42a34af94c66e97efaf31  media/Screenshot From 2026-09-17 16-20-24.png
 158f878253b20fe5e070be494960a11c4bcb588dd8b45093c2addafb699e3100  media/claud_fail/Screenshot From 2026-10-07 08-39-48.png
 a8eb8d2ccc479db77ba52e757d0a4682eeb4d941796fc8307d1dc31b03457ea6  media/claud_fail/Screenshot From 2026-10-17 00-57-09.png
+ac168220b7c257fef715d0a4428dc5acc4f63cd96c4462ed701392a1e9a6ffbf  media/hard_logic/Claud.txt
+c8293cd9960abd31002cc6926ac5a22128c2f34c0f76cc0af86b817f3e5b4297  media/hard_logic/DeepSeek.txt
+675146aec37b67194b4486ec0ee25a4b990a7fbd02abf8aed42ff785fd5b071e  media/hard_logic/GIN.txt
+64bde2013f34954e6a6240045d7cee7a8c50c195572c112d7e696b339767405e  media/hard_logic/GIN_10_Question_Comparison_EN.md
+9e9a4054747e85d5661222f9185be6dda1672c2a17e469af3fc2139a412bb605  media/hard_logic/Gemini.txt
+fa45481730b6708e972c381ea186c5d635db8be1ff717238738f92b857c56b8e  media/hard_logic/Grok.txt
+0364e6d5c4ea2b64951117e480d6774eedb61d084af22fd5d8f661260a77a258  media/hard_logic/Screencast From 2026-10-17 19-04-15.webm
+bf2cde14a67ba80c15a56daddf796f7192e0f20ff7e0d75437356ae8eaff77ba  media/hard_logic/Screencast From 2026-10-17 19-46-37.webm
+50c87aebf5206dc37452af742a90f33cbc1f59f6d5eebeeea2f01727418bf786  media/hard_logic/Screencast From 2026-10-17 19-48-58.webm
+5847808dda0024b2cdc7fb33ab8cffd553622f11ef74fd40ba0dac392815f0d0  media/hard_logic/Screencast From 2026-10-17 19-59-39.webm
+d468d1b4e569fd66d30df7974e5acde57ad1c7ba3455b133493a344cea5359fc  media/hard_logic/Screencast From 2026-10-17 20-08-52.webm
 294ff74b724c98b2136dfc2785bdcc594ab52c6ffaf6f933a00c6674077992df  media/know&dont_know/Screencast From 2026-10-17 02-04-40.webm
 62b99c88777350fa909a7ce5544dfd37a497941328e37a58af33576481df548b  media/know&dont_know/Screenshot From 2026-10-17 01-58-38.png
 7344fc913571785b35c2ccbc95154422c8e80c8d335e601fae34dbb7fa3d3424  media/know&dont_know/Screenshot From 2026-10-17 02-04-18.png

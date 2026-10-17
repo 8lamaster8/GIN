@@ -22,7 +22,7 @@ The question remains in its history. With new evidence, GIN can return to it and
 
 ### HANDS & TOOLS
 
-GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes code, checks results, and creates projects.
+GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes code, checks results, creates projects and more
 
 Tasks can be paused and resumed when needed.
 
