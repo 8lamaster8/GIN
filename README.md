@@ -4,15 +4,6 @@
 
 GIN can work with different LLMs, but its memory, accumulated knowledge, and history are not tied to any single model.
 
-### CURRENT LOCAL SETUP
-
-**CPU:** AMD Ryzen 5 7500F  
-**GPU:** NVIDIA GeForce RTX 5070  
-**RAM:** 16 GB  
-**LLM:** Bonsai 2 27B (~1.76 bits per weight)
-
-**Local LLM inference. No cloud LLM APIs.**
-
 ### CHAT & MEMORY
 
 GIN reasons, searches, and holds conversations. Its accumulated history shapes what comes next. RAG and external sources expand its knowledge.
@@ -31,7 +22,7 @@ The question remains in its history. With new evidence, GIN can return to it and
 
 ### HANDS & TOOLS
 
-GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes code, checks results, creates projects and more.
+GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes code, checks results, and creates projects.
 
 Tasks can be paused and resumed when needed.
 
