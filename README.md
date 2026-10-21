@@ -26,4 +26,4 @@ GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes cod
 
 Tasks can be paused and resumed when needed.
 
-[Media](media/)
+[Media](https://github.com/8lamaster8/GIN/tree/main/media)
