@@ -13,7 +13,7 @@ GIN is an autonomous cognitive system, not a language model. It works with diffe
 
 **On-device inference. No external LLM APIs. No search APIs. No paid subscriptions.**
 
-### RING | EUREKA · EXPERIENCE · DISCOVERY
+### RING
 
 Fully autonomous research and learning cycle. Independently chooses what to explore, identifies knowledge gaps, investigates the unknown, and integrates acquired knowledge into persistent CORE / WORLD.
 
