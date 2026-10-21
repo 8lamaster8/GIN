@@ -1,29 +1,50 @@
 # GIN
 
-**GIN is an autonomous cognitive system, not a language model.**
+**The model can change. GIN keeps its past.**
 
-GIN can work with different LLMs, but its memory, accumulated knowledge, and history are not tied to any single model.
+GIN is an autonomous cognitive system, not a language model. It works with different LLMs, while its memory, knowledge, and accumulated experience remain independent of any single model.
+
+### CURRENT SETUP
+
+**CPU:** AMD Ryzen 5 7500F  
+**GPU:** NVIDIA RTX 5070  
+**RAM:** 16 GB  
+**LLM:** Bonsai 2 27B (~1.76 bits per weight)
+
+**On-device inference. No external LLM APIs. No search APIs. No paid subscriptions.**
+
+### RING | EUREKA · EXPERIENCE · DISCOVERY
+
+Fully autonomous research and learning cycle. Independently chooses what to explore, identifies knowledge gaps, investigates the unknown, and integrates acquired knowledge into persistent CORE / WORLD.
+
+**No assigned topics. No human guidance. No predefined training datasets.**
+
+### CORE / WORLD
+
+Persistent knowledge and world model. Accumulated strictly through RING, not through ordinary conversations. Chat cannot directly modify CORE / WORLD.
+
+**What GIN learns becomes part of its future.**
 
 ### CHAT & MEMORY
 
-GIN reasons, searches, and holds conversations. Its accumulated history shapes what comes next. RAG and external sources expand its knowledge.
+GIN reasons, searches, and communicates. Chat is a temporary workspace, not a direct gateway into long-term knowledge. GIN retains its history and tracks external data usage.
 
-### RING
+### RAG vs. RING
 
-GIN has its own research drive. It can choose what to study without being given a topic, investigate gaps in its knowledge, and explore new directions.
-
-Self-learning expands GIN's knowledge.
+**RAG retrieves. RING learns.**
 
 ### KNOW / DON'T KNOW
 
-When the available evidence is insufficient, GIN can say **"I don't know."**
+Without sufficient evidence, GIN can say **"I don't know."**
 
-The question remains in its history. With new evidence, GIN can return to it and answer.
+The question isn't forgotten. New knowledge or retrieved information can change what GIN is able to answer.
 
 ### HANDS & TOOLS
 
-GIN moves beyond conversation. It plans multi-step tasks, uses tools, writes code, checks results, and creates projects.
+Plans, executes, and verifies multi-step tasks using isolated tools. Writes code, creates projects, works with files, and more.
 
-Tasks can be paused and resumed when needed.
+Tools have no direct network access. Tasks can be paused and resumed from saved state.
+
+---
 
 [Media](https://github.com/8lamaster8/GIN/tree/main/media)
