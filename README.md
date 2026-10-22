@@ -29,7 +29,7 @@ Persistent knowledge and world model, updated through RING rather than ordinary 
 
 A temporary workspace for reasoning and communication. GIN draws on its history without letting every conversation rewrite long-term knowledge.
 
-### HANDS & TOOLS
+### HANDS
 
 GIN plans, executes, and verifies multi-step tasks using isolated tools. It writes code, works with files, builds projects, and resumes tasks from saved state after interruptions.
 
